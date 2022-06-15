@@ -487,6 +487,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Pokedex";
             ((System.ComponentModel.ISupportInitialize)(this.pictureFront)).EndInit();
             this.panelNombre.ResumeLayout(false);
